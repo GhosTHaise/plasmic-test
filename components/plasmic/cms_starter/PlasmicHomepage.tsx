@@ -545,7 +545,7 @@ export const PlasmicHomepage = Object.assign(
 
     // Page metadata
     pageMetadata: {
-      title: "Customer",
+      title: "Home Page",
       description: "",
       ogImageSrc: "",
       canonical: ""

@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -85,7 +85,8 @@
           "componentImportPath": "@plasmicpkgs/plasmic-tabs"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "5dGW8Awro3qq8Hh5MveXLP",
@@ -113,7 +114,8 @@
           "componentImportPath": "@plasmicpkgs/lottie-react"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "hjKYmYi6HMwK6TRyk7ew5R",
@@ -171,7 +173,8 @@
           "componentImportPath": "@plasmicpkgs/plasmic-cms"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "nfrjG2YGbjnCxJhQdBiNtF",
@@ -187,7 +190,7 @@
           "projectId": "nfrjG2YGbjnCxJhQdBiNtF",
           "renderModuleFilePath": "plasmic/cms_starter/PlasmicHomepage.tsx",
           "importSpec": {
-            "modulePath": "../pages/public/lottie/Customer.json.tsx"
+            "modulePath": "../pages/index.tsx"
           },
           "cssFilePath": "plasmic/cms_starter/PlasmicHomepage.module.css",
           "scheme": "blackbox",
